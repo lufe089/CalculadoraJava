@@ -14,10 +14,16 @@ public class CalcularTest {
 		Calculadora calculadora= new CalculadoraImpl();
 		assertEquals(calculadora.sumar(1, 1), 2);
 	}
-	
+
+	@Test
 	public void multiTest(){
 		Calculadora calculadora= new CalculadoraImpl();
 		assertEquals(calculadora.multiplicar(1, 1), 1);
+	}
+	@Test
+	public void restarTest(){ //asdasd
+		Calculadora calculadora= new CalculadoraImpl();
+		assertEquals(calculadora.restar(2, 1), 1);
 	}
 
 
