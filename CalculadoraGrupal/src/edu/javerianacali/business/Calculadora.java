@@ -2,6 +2,7 @@ package edu.javerianacali.business;
 
 public abstract class Calculadora {
 
+	//Modificar
 	public abstract int sumar(int num1, int num2);
 
 	public abstract int restar(int num1, int num2);
