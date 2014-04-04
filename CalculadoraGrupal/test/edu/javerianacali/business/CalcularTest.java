@@ -12,7 +12,7 @@ public class CalcularTest {
 	@Test
 	public void sumarTest(){
 		Calculadora calculadora= new CalculadoraImpl();
-		assertEquals(calculadora.sumar(1, 1), 0);
+		assertEquals(calculadora.sumar(1, 1), 2);
 	}
 	
 	public void multiTest(){
