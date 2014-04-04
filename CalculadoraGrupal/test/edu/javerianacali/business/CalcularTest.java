@@ -14,5 +14,11 @@ public class CalcularTest {
 		Calculadora calculadora= new CalculadoraImpl();
 		assertEquals(calculadora.sumar(1, 1), 0);
 	}
+	
+	public void multiTest(){
+		Calculadora calculadora= new CalculadoraImpl();
+		assertEquals(calculadora.multiplicar(1, 1), 1);
+	}
+
 
 }
