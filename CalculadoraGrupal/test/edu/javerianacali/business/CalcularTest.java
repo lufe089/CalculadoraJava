@@ -12,7 +12,19 @@ public class CalcularTest {
 	@Test
 	public void sumarTest(){
 		Calculadora calculadora= new CalculadoraImpl();
-		assertEquals(calculadora.sumar(1, 1), 0);
+		assertEquals(calculadora.sumar(1, 1), 2);
 	}
+
+	@Test
+	public void restarTest(){
+		Calculadora calculadora= new CalculadoraImpl();
+		assertEquals(calculadora.restar(2, 1), 1);
+	}
+	@Test
+	public void multiTest(){
+		Calculadora calculadora= new CalculadoraImpl();
+		assertEquals(calculadora.multiplicar(1, 1), 1);
+	}
+
 
 }
