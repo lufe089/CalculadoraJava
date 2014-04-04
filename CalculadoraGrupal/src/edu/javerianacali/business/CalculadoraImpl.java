@@ -11,7 +11,7 @@ public class CalculadoraImpl extends Calculadora {
 	@Override
 	public int restar(int num1, int num2) {
 		// TODO Auto-generated method stub
-		return num1-num2;
+		return 0;
 	}
 
 	@Override
