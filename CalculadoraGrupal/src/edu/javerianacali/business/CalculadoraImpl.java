@@ -52,12 +52,16 @@ public class CalculadoraImpl extends Calculadora {
 		System.out.println("Hola");
 	}
 
-
+	
 
 	public void metodoLuisa(){
 		
 	}
 	
+	public void metodoBbonilla(){
+		
+	}
+
 	public void metodosantiago2()
 	{
 		
