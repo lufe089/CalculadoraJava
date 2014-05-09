@@ -39,12 +39,20 @@ public class CalculadoraImpl extends Calculadora {
 		return null;
 	}
 	
+
 	public int metodosantiago(int num1, int num2)
 	{
 		
 		return 0;
 	}
 	
+
+	@Override
+	public void saludo() {
+		System.out.println("Hola");
+	}
+
+
 
 	public void metodoLuisa(){
 		
