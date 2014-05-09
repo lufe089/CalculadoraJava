@@ -38,5 +38,11 @@ public class CalculadoraImpl extends Calculadora {
 		// TODO Auto-generated method stub
 		return null;
 	}
+	
+	@Override
+	public void saludo() {
+		System.out.println("Hola");
+	}
+
 
 }
