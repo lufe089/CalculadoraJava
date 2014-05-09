@@ -38,5 +38,12 @@ public class CalculadoraImpl extends Calculadora {
 		// TODO Auto-generated method stub
 		return null;
 	}
+	
+	public int metodosantiago(int num1, int num2)
+	{
+		
+		return 0;
+	}
+	
 
 }
