@@ -14,4 +14,6 @@ public abstract class Calculadora {
 	public abstract int potencia(int num1, int num2);
 
 	public abstract Double fibonacci(int num1, int num2);
+
+	public abstract void saludo();
 }
