@@ -58,12 +58,17 @@ public class CalculadoraImpl extends Calculadora {
 		
 	}
 	
+
 	public void metodoBbonilla(){
 		
 	}
 
+
+
+	public void metodoMauricio(){
+	}
+	
 	public void metodosantiago2()
-	{
-		
+	{	
 	}
 }
