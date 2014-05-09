@@ -39,4 +39,7 @@ public class CalculadoraImpl extends Calculadora {
 		return null;
 	}
 
+	public void metodoLuisa(){
+		
+	}
 }
