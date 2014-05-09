@@ -29,6 +29,7 @@ public class CalculadoraImpl extends Calculadora {
 	@Override
 	public int potencia(int num1, int num2) {
 		// TODO Auto-generated method stub
+		//Implementar
 		return 0;
 	}
 
